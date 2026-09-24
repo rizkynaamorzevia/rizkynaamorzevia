@@ -1,12 +1,8 @@
 ## About Me 🎐
-### 📚 Library Science student
-### 🌱 Currently learning programming & web development
-### 💜 Interested in coding and software development
+📚 Library Science student
+🌱 Currently learning programming & web development
+💜 Interested in coding and software development
 
-
-
-
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zukaachan13) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rizkynaamorzevia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morrkynn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizkyna-amor-zevia-8847a4377?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@morkynn) 
 
 # 💻 Tech Stack:
@@ -18,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rizkynaamorzevia&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=rizkynaamorzevia&icon=7&color=5)](https://visitcount.itsvg.in)
