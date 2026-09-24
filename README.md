@@ -1,5 +1,7 @@
-# About Me 🎐
-## 📚 Library Science student | 🌱 Currently learning programming & web development | 💜 Interested in coding and software development
+## About Me 🎐
+### 📚 Library Science student
+### 🌱 Currently learning programming & web development
+### 💜 Interested in coding and software development
 
 
 ## 🌐 Socials:
